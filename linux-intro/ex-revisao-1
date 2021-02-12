@@ -1,0 +1,17 @@
+  259  mkdir Ubuntu
+  260  mkdir /Documents/Ubuntu/
+  261  mkdir Documents/Ubuntu/
+  262  mv Documents/Ubuntu/ ~
+  263  touch Ubuntu/teste.txt
+  264  mv Ubuntu/teste.txt Ubuntu/linux.txt
+  265  cp Ubuntu/linux.txt Downloads/linux.txt
+  266  history
+  267  ls --help
+  268  man mv
+  269  rmdir Ubuntu/
+  270  rm -r Ubuntu/
+  271  rm Downloads/linux.txt
+  272  clear
+  273  exit
+  274  touch exercicios-revisao-1.txt
+  275  history > exercicios-revisao-1.txt 
